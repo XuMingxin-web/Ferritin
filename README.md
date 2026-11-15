@@ -1,7 +1,6 @@
 # Ferritin-GeoHybrid: Curated Ferritin Thermostability Database & Assembly-Aware ΔTm Predictor
 
-**Author:** Mingxin Xu (Student ID: `P2625571`)  
-**Course:** AIDD8122 – Advanced Topics in Artificial Intelligence & Drug Discovery, Faculty of Applied Sciences, Macao Polytechnic University  
+**Author:** XMX   
 **Repository:** https://github.com/XuMingxin-web/Ferritin-AIDD8122
 
 ---
