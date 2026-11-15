@@ -1,0 +1,16 @@
+# Core runtime & benchmark modeling dependencies
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+matplotlib>=3.8.0
+pytest>=8.0.0
+
+# Optional dependencies for raw structure/PLM feature extraction:
+# biopython>=1.81
+# torch>=2.1.0
+# fair-esm>=2.0.0
+# External binaries required only for raw structure regeneration:
+# - GeoDTm-3D (https://github.com/...) + ESM-2 (esm2_t33_650M_UR50D.pt)
+# - FoldX 5.1 (configured via FOLDX_BIN / FERRITIN_EXTERNAL_ROOT env vars)

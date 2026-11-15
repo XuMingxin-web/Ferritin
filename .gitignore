@@ -1,0 +1,40 @@
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# Python environments & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Large regenerable intermediate compute caches (~312 MB)
+research/cache/
+research/results/s571_repro/cases/
+
+# Temporary FoldX outputs
+molecules/*
+!molecules/.gitkeep
+*.fxout
+Rotabase.txt
+Unrecognized_molecules.txt
+
+# LaTeX intermediate build files
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.fdb_latexmk
+*.fls
+*.synctex.gz

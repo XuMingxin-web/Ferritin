@@ -1,0 +1,1138 @@
+{
+  "EcBfr_1BFR_A": {
+    "protein_group": "P0ABD3",
+    "protein_name": "Bacterioferritin (EcBfr)",
+    "oligomer_family": "24mer_bfr",
+    "pdb_id": "1BFR",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/raw/structures/1BFR.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "H",
+      "L",
+      "M",
+      "W",
+      "X"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6788816417039065,
+        "n_contacts_6a": 164,
+        "rotation_deg": 179.94506554981925,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "H",
+        "source_chain_id": "H",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.796689957785519,
+        "n_contacts_6a": 84,
+        "rotation_deg": 119.98042025510844,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "L",
+        "source_chain_id": "L",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.844486079090469,
+        "n_contacts_6a": 88,
+        "rotation_deg": 89.68933461262796,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "M",
+        "source_chain_id": "M",
+        "op_index": 0,
+        "min_heavy_dist_a": 4.907887918587213,
+        "n_contacts_6a": 6,
+        "rotation_deg": 179.99328388621643,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "W",
+        "source_chain_id": "W",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.7356954342524693,
+        "n_contacts_6a": 100,
+        "rotation_deg": 119.97086550041946,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "X",
+        "source_chain_id": "X",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6845714182287184,
+        "n_contacts_6a": 114,
+        "rotation_deg": 90.24545008153233,
+        "symmetry_class": "C4"
+      }
+    ],
+    "pdb_seq": "MKGDTKVINYLNKLLGNELVAINQYFLHARMFKNWGLKRLNDVEYHESIDEMKHADRYIERILFLEGLPNLQDLGKLNIGEDVEEMLRSDLALELDGAKNLREAIGYADSVHDYVSRDMMIEILRDEEGHIDWLETELDLIQKMGLQNYLQAQIREEG",
+    "pdb_resnum_min": 1,
+    "pdb_resnum_max": 158
+  },
+  "AfFtn_1SQ3_A": {
+    "protein_group": "O29424",
+    "protein_name": "Archaeoglobus fulgidus ferritin (AfFtn)",
+    "oligomer_family": "24mer_archaeal",
+    "pdb_id": "1SQ3",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/raw/structures/1SQ3.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F",
+      "H"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.414470687662765,
+        "n_contacts_6a": 190,
+        "rotation_deg": 179.73116522283638,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "D",
+        "source_chain_id": "D",
+        "op_index": 0,
+        "min_heavy_dist_a": 3.015200817347676,
+        "n_contacts_6a": 64,
+        "rotation_deg": 120.29794248329063,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "E",
+        "source_chain_id": "E",
+        "op_index": 0,
+        "min_heavy_dist_a": 3.3461868682747338,
+        "n_contacts_6a": 75,
+        "rotation_deg": 119.9128850921031,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "F",
+        "source_chain_id": "F",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.8613309562319404,
+        "n_contacts_6a": 76,
+        "rotation_deg": 93.86380962828899,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "H",
+        "source_chain_id": "H",
+        "op_index": 0,
+        "min_heavy_dist_a": 3.108957419207332,
+        "n_contacts_6a": 47,
+        "rotation_deg": 47.985607762903086,
+        "symmetry_class": "C4"
+      }
+    ],
+    "pdb_seq": "SISEKMVEALNRQINAEIYSAYLYLSMASYFDSIGLKGFSNWMRVQWQEELMHAMKMFDFVSERGGRVKLYAVEEPPSEWDSPLAAFEHVYEHEVNVTKRIHELVEMAMQEKDFATYNFLQWYVAEQVEEEASALDIVEKLRLIGEDKRALLFLDKELSLRQ",
+    "pdb_resnum_min": 3,
+    "pdb_resnum_max": 164
+  },
+  "RcBFR_1JGC_A": {
+    "protein_group": "Q59738",
+    "protein_name": "Rhodobacter capsulatus BFR (RcBFR)",
+    "oligomer_family": "24mer_bfr",
+    "pdb_id": "1JGC",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/raw/structures/1JGC.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "C",
+      "H",
+      "I",
+      "O",
+      "V"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6878854406628867,
+        "n_contacts_6a": 59,
+        "rotation_deg": 119.99278433475118,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "C",
+        "source_chain_id": "C",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.7143874550057427,
+        "n_contacts_6a": 76,
+        "rotation_deg": 120.30662969046824,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "H",
+        "source_chain_id": "B",
+        "op_index": 2,
+        "min_heavy_dist_a": 2.8200600442109924,
+        "n_contacts_6a": 157,
+        "rotation_deg": 179.84071490400947,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "I",
+        "source_chain_id": "C",
+        "op_index": 2,
+        "min_heavy_dist_a": 2.8163861324572403,
+        "n_contacts_6a": 102,
+        "rotation_deg": 90.02417402559492,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "O",
+        "source_chain_id": "C",
+        "op_index": 4,
+        "min_heavy_dist_a": 2.847371865488445,
+        "n_contacts_6a": 142,
+        "rotation_deg": 89.9772716196646,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "V",
+        "source_chain_id": "A",
+        "op_index": 7,
+        "min_heavy_dist_a": 5.166439190093957,
+        "n_contacts_6a": 1,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      }
+    ],
+    "pdb_seq": "MKGDAKVIEFLNAALRSELTAISQYWVHFRLQEDWGLAKMAKKSREESIEEMGHADKIIARILFLEGHPNLQKLDPLRIGEGPRETLECDLAGEHDALKLYREARDYCAEVGDIVSKNIFESLITDEEGHVDFLETQISLYDRLGPQGFALLNAAPMDAA",
+    "pdb_resnum_min": 1,
+    "pdb_resnum_max": 160
+  },
+  "EcFtnA_1EUM_A": {
+    "protein_group": "P0A998",
+    "protein_name": "E. coli FtnA (EcFtnA)",
+    "oligomer_family": "24mer_nonheme_bac",
+    "pdb_id": "1EUM",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/followup13_20261115/sources/1EUM.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F",
+      "O",
+      "X"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 4.794275685376339,
+        "n_contacts_6a": 6,
+        "rotation_deg": 179.77795415897657,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "C",
+        "source_chain_id": "C",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.931069713990821,
+        "n_contacts_6a": 76,
+        "rotation_deg": 119.97180576673308,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "D",
+        "source_chain_id": "D",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.1336885028255996,
+        "n_contacts_6a": 74,
+        "rotation_deg": 90.5066650716921,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "F",
+        "source_chain_id": "F",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.626057641268309,
+        "n_contacts_6a": 189,
+        "rotation_deg": 179.94437984386533,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "O",
+        "source_chain_id": "C",
+        "op_index": 2,
+        "min_heavy_dist_a": 2.4356083752262823,
+        "n_contacts_6a": 59,
+        "rotation_deg": 89.51042779035284,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "X",
+        "source_chain_id": "F",
+        "op_index": 3,
+        "min_heavy_dist_a": 3.0646411733353807,
+        "n_contacts_6a": 72,
+        "rotation_deg": 120.53624872550381,
+        "symmetry_class": "C3"
+      }
+    ],
+    "pdb_seq": "LKPEMIEKLNEQMNLELYSSLLYQQMSAWCSYHTFEGAAAFLRRHAQEEMTHMQRLFDYLTDTGNLPRINTVESPFAEYSSLDELFQETYKHEQLITQKINELAHAAMTNQDYPTFNFLQWYVSEQHEEEKLFKSIIDKLSLAGKSGEGLYFIDKELSTLD",
+    "pdb_resnum_min": 2,
+    "pdb_resnum_max": 162
+  },
+  "HuHF_2FHA_A_restored": {
+    "protein_group": "P02794",
+    "protein_name": "Human H-ferritin (HuHF)",
+    "oligomer_family": "24mer_canonical_euk",
+    "pdb_id": "2FHA",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/mtdatabase_20261115/structure_sources/2FHA.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [
+      [
+        86,
+        "Q",
+        "K"
+      ]
+    ],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "D",
+      "F",
+      "L",
+      "Q",
+      "T",
+      "V"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "D",
+        "source_chain_id": "A",
+        "op_index": 3,
+        "min_heavy_dist_a": 4.714397294868838,
+        "n_contacts_6a": 3,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "F",
+        "source_chain_id": "A",
+        "op_index": 5,
+        "min_heavy_dist_a": 2.5057283233835967,
+        "n_contacts_6a": 138,
+        "rotation_deg": 120.00000000000001,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "L",
+        "source_chain_id": "A",
+        "op_index": 11,
+        "min_heavy_dist_a": 2.5057283233835967,
+        "n_contacts_6a": 93,
+        "rotation_deg": 120.00000000000001,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "Q",
+        "source_chain_id": "A",
+        "op_index": 16,
+        "min_heavy_dist_a": 2.631816822712067,
+        "n_contacts_6a": 80,
+        "rotation_deg": 90.0,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "T",
+        "source_chain_id": "A",
+        "op_index": 19,
+        "min_heavy_dist_a": 2.631816822712067,
+        "n_contacts_6a": 96,
+        "rotation_deg": 90.0,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "V",
+        "source_chain_id": "A",
+        "op_index": 21,
+        "min_heavy_dist_a": 2.7198011306933494,
+        "n_contacts_6a": 252,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      }
+    ],
+    "pdb_seq": "TSQVRQNYHQDSEAAINRQINLELYASYVYLSMSYYFDRDDVALKNFAKYFLHQSHEEREHAEKLMKLQNQRGGRIFLQDIKKPDCDDWESGLNAMECALHLEKNVNQSLLELHKLATDKNDPHLCDFIETHYLNEQVKAIKELGDHVTNLRKMGAPESGLAEYLFDKHTLG",
+    "pdb_resnum_min": 5,
+    "pdb_resnum_max": 176
+  },
+  "MjFer_6A4U_A_restored": {
+    "protein_group": "T2B7E1",
+    "protein_name": "Kuruma prawn ferritin (MjFer)",
+    "oligomer_family": "24mer_canonical_euk",
+    "pdb_id": "6A4U",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/mtdatabase_20261115/structure_sources/6A4U.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [
+      [
+        89,
+        "R",
+        "Q"
+      ]
+    ],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "P",
+      "R",
+      "S",
+      "U",
+      "V",
+      "W"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "P",
+        "source_chain_id": "E",
+        "op_index": 3,
+        "min_heavy_dist_a": 2.8083431668750505,
+        "n_contacts_6a": 100,
+        "rotation_deg": 119.69713416515295,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "R",
+        "source_chain_id": "D",
+        "op_index": 4,
+        "min_heavy_dist_a": 2.673251905574962,
+        "n_contacts_6a": 221,
+        "rotation_deg": 179.98485806276994,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "S",
+        "source_chain_id": "A",
+        "op_index": 5,
+        "min_heavy_dist_a": 5.035013856644875,
+        "n_contacts_6a": 2,
+        "rotation_deg": 179.99999829245272,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "U",
+        "source_chain_id": "A",
+        "op_index": 6,
+        "min_heavy_dist_a": 2.629012077773415,
+        "n_contacts_6a": 94,
+        "rotation_deg": 90.0,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "V",
+        "source_chain_id": "D",
+        "op_index": 6,
+        "min_heavy_dist_a": 2.6999774274331063,
+        "n_contacts_6a": 129,
+        "rotation_deg": 120.16694230752304,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "W",
+        "source_chain_id": "A",
+        "op_index": 7,
+        "min_heavy_dist_a": 2.629012077773415,
+        "n_contacts_6a": 89,
+        "rotation_deg": 90.0,
+        "symmetry_class": "C4"
+      }
+    ],
+    "pdb_seq": "ASQVRQNYHEDCEASINKQINMELYASYVYLSMAYYFERDDVALPGFAKFFKESSDEEREHAQTFMKYQNKRGGRIVLQQIAAPSMQEWGTGLEALQAALDLEKQVNQSLLELHSTASGNNDPHLTKLLEDEYLEEQVDSIKKIGDMITKLKRAGPTGLGEYMFDKELN",
+    "pdb_resnum_min": 2,
+    "pdb_resnum_max": 172
+  },
+  "CgFer_6LIJ_A": {
+    "protein_group": "Q70MM3",
+    "protein_name": "Pacific oyster ferritin (CgFer)",
+    "oligomer_family": "24mer_canonical_euk",
+    "pdb_id": "6LIJ",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/mtdatabase_20261115/structure_sources/6LIJ.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "G",
+      "H",
+      "K",
+      "T",
+      "X"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "A",
+        "op_index": 1,
+        "min_heavy_dist_a": 5.494755742157232,
+        "n_contacts_6a": 2,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "G",
+        "source_chain_id": "A",
+        "op_index": 6,
+        "min_heavy_dist_a": 2.5412052100503213,
+        "n_contacts_6a": 103,
+        "rotation_deg": 90.0,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "H",
+        "source_chain_id": "A",
+        "op_index": 7,
+        "min_heavy_dist_a": 2.5412052100503213,
+        "n_contacts_6a": 101,
+        "rotation_deg": 90.0,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "K",
+        "source_chain_id": "A",
+        "op_index": 10,
+        "min_heavy_dist_a": 2.6499021393093467,
+        "n_contacts_6a": 144,
+        "rotation_deg": 119.99999999999999,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "T",
+        "source_chain_id": "A",
+        "op_index": 19,
+        "min_heavy_dist_a": 2.6499021393093467,
+        "n_contacts_6a": 106,
+        "rotation_deg": 120.00000000000001,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "X",
+        "source_chain_id": "A",
+        "op_index": 23,
+        "min_heavy_dist_a": 2.6612782509322876,
+        "n_contacts_6a": 262,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      }
+    ],
+    "pdb_seq": "ESQCRQNYHQESEAGINRQINMELYACYTYQSMAYYFDRDDVALPGFSKFFKNSSDEEREHAEKLMKYQNKRGGRVVLQDIKKPDRDEWGTGLDAMQVALQLEKTVNQSLLDLHKVADSHQDAQMCDFLETHYLEEQVNAIKEISDHITQLKRVGSGLGEYEYDRRLDS",
+    "pdb_resnum_min": 2,
+    "pdb_resnum_max": 170
+  },
+  "AjFER_7VHR_B": {
+    "protein_group": "Q2QJV4",
+    "protein_name": "Sea cucumber ferritin (AjFER)",
+    "oligomer_family": "24mer_canonical_euk",
+    "pdb_id": "7VHR",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/mtdatabase_20261115/structure_sources/7VHR.pdb",
+    "target_chain_id": "B",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "C",
+      "G",
+      "I",
+      "J",
+      "R"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "A",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.649354680308941,
+        "n_contacts_6a": 254,
+        "rotation_deg": 179.95755891761826,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "C",
+        "source_chain_id": "C",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.629098389553156,
+        "n_contacts_6a": 103,
+        "rotation_deg": 120.03626490347004,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "G",
+        "source_chain_id": "G",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.3982461616743023,
+        "n_contacts_6a": 86,
+        "rotation_deg": 90.22241185456745,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "I",
+        "source_chain_id": "I",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.721842649128805,
+        "n_contacts_6a": 130,
+        "rotation_deg": 119.9982737664648,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "J",
+        "source_chain_id": "J",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.3014097443858477,
+        "n_contacts_6a": 96,
+        "rotation_deg": 89.81751697840386,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "R",
+        "source_chain_id": "R",
+        "op_index": 0,
+        "min_heavy_dist_a": 5.71235990756486,
+        "n_contacts_6a": 2,
+        "rotation_deg": 179.6374317966652,
+        "symmetry_class": "C2"
+      }
+    ],
+    "pdb_seq": "PSQVRQNFHELCEAGVNKQINLELYASYTYHSIAFYFDRDDVALPGAHKYFKKQSEEEREHAEKLMKFQNQRGGRVKLKDITAPEKEEWGSLLDAFKVALELEKKVNQSLLDLHGLADSKKDAQMCDFIETHYLTEQVEAIKEIGDHITNLKRVGTGLGEFIYDKENLKED",
+    "pdb_resnum_min": 3,
+    "pdb_resnum_max": 173
+  },
+  "HuFTL_2FFX_J": {
+    "protein_group": "P02792",
+    "protein_name": "L-chain ferritin proxy (2FFX_J)",
+    "oligomer_family": "24mer_canonical_euk",
+    "pdb_id": "2FFX",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/mtdatabase_20261115/structure_sources/2FFX.pdb",
+    "target_chain_id": "J",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "C",
+      "E",
+      "I",
+      "R",
+      "U",
+      "W"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "C",
+        "source_chain_id": "J",
+        "op_index": 2,
+        "min_heavy_dist_a": 3.256491962750645,
+        "n_contacts_6a": 5,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "E",
+        "source_chain_id": "J",
+        "op_index": 4,
+        "min_heavy_dist_a": 2.6827577257858333,
+        "n_contacts_6a": 99,
+        "rotation_deg": 120.00000000000001,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "I",
+        "source_chain_id": "J",
+        "op_index": 8,
+        "min_heavy_dist_a": 2.6827577257858333,
+        "n_contacts_6a": 125,
+        "rotation_deg": 119.99999999999999,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "R",
+        "source_chain_id": "J",
+        "op_index": 17,
+        "min_heavy_dist_a": 2.678849025681187,
+        "n_contacts_6a": 235,
+        "rotation_deg": 180.0,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "U",
+        "source_chain_id": "J",
+        "op_index": 20,
+        "min_heavy_dist_a": 2.302687549740471,
+        "n_contacts_6a": 113,
+        "rotation_deg": 89.99999999999999,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "W",
+        "source_chain_id": "J",
+        "op_index": 22,
+        "min_heavy_dist_a": 2.302687549740471,
+        "n_contacts_6a": 108,
+        "rotation_deg": 89.99999999999999,
+        "symmetry_class": "C4"
+      }
+    ],
+    "pdb_seq": "SSQIRQNYSTDVEAAVNSLVNLYLQASYTYLSLGFYFDRDDVALEGVSHFFRELAEEKREGYERLLKMQNQRGGRALFQDIKKPAEDEWGKTPDAMKAAMALEKKLNQALLDLHALGSARTDPHLCDFLETHFLDEEVKLIKKMGDHLTNLHRLGGPEAGLGEYLFERLTLKH",
+    "pdb_resnum_min": 5,
+    "pdb_resnum_max": 177
+  },
+  "EcDps_1F33_F": {
+    "protein_group": "P0ABT2",
+    "protein_name": "E. coli Dps miniferritin (EcDps)",
+    "oligomer_family": "12mer_dps",
+    "pdb_id": "1F33",
+    "pdb_path": "/Users/a26683/Desktop/AIDD8122_Final_Project/Ferritin_AIDD8122/data/expansion_audit/mtdatabase_20261115/structure_sources/1F33.pdb",
+    "target_chain_id": "F",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 12,
+    "total_subunits": 12,
+    "subcomplex_chains": [
+      "A",
+      "D",
+      "E",
+      "F",
+      "I",
+      "K",
+      "L"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "D",
+        "source_chain_id": "C",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.81120017228901,
+        "n_contacts_6a": 68,
+        "rotation_deg": 120.31397146910471,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "E",
+        "source_chain_id": "D",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.2498438702958556,
+        "n_contacts_6a": 115,
+        "rotation_deg": 119.63723965715393,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "F",
+        "source_chain_id": "E",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6208475224011303,
+        "n_contacts_6a": 245,
+        "rotation_deg": 179.79526418761975,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "I",
+        "source_chain_id": "C",
+        "op_index": 1,
+        "min_heavy_dist_a": 2.8763674440036313,
+        "n_contacts_6a": 19,
+        "rotation_deg": 119.9605605534527,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "K",
+        "source_chain_id": "E",
+        "op_index": 1,
+        "min_heavy_dist_a": 2.3950123069587304,
+        "n_contacts_6a": 61,
+        "rotation_deg": 179.84124702176857,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "L",
+        "source_chain_id": "F",
+        "op_index": 1,
+        "min_heavy_dist_a": 6.632900284809756,
+        "n_contacts_6a": 0,
+        "rotation_deg": 179.99999879258172,
+        "symmetry_class": "C2"
+      }
+    ],
+    "pdb_seq": "SKATNLLYTRNDVSDSEKKATVELLNRQVIQFIDLSLITKQAHWNMRGANFIAVHEMLDGFRTALIDHLDTMAERAVQLGGVALGTTQVINSKTPLKSYPLDIHNVQDHLKELADRYAIVANDVRKAIGEAKDDDTADILTAASRDLDKFLWFIESNIE",
+    "pdb_resnum_min": 9,
+    "pdb_resnum_max": 167
+  },
+  "BfMFtn_1MFR_A": {
+    "protein_group": "P07798",
+    "protein_name": "Bullfrog M-ferritin (BfMFtn)",
+    "oligomer_family": "24mer_canonical_euk",
+    "pdb_id": "1MFR",
+    "pdb_path": "/Users/a26683/Desktop/ferritinMTdatabase/research/data/ferritin_pdb_raw/1MFR.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "G",
+      "H",
+      "J",
+      "O",
+      "R",
+      "X"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "G",
+        "source_chain_id": "G",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6930371584423485,
+        "n_contacts_6a": 231,
+        "rotation_deg": 179.98855385971916,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "H",
+        "source_chain_id": "H",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.8371773204618127,
+        "n_contacts_6a": 96,
+        "rotation_deg": 119.90655148970654,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "J",
+        "source_chain_id": "J",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.492804095212002,
+        "n_contacts_6a": 99,
+        "rotation_deg": 90.15572012873368,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "O",
+        "source_chain_id": "O",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.4924593343573136,
+        "n_contacts_6a": 97,
+        "rotation_deg": 90.00200889413124,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "R",
+        "source_chain_id": "R",
+        "op_index": 0,
+        "min_heavy_dist_a": 5.0899847257780255,
+        "n_contacts_6a": 2,
+        "rotation_deg": 179.97565561657942,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "X",
+        "source_chain_id": "X",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.747678900480478,
+        "n_contacts_6a": 134,
+        "rotation_deg": 119.93315935582488,
+        "symmetry_class": "C3"
+      }
+    ],
+    "pdb_seq": "VSQVRQNYHSDCEAAVNRMLNLELYASYTYSSMYAFFDRDDVALHNVAEFFKEHSHEEREHAEKFMKYQNKRGGRVVLQDIKKPERDEWGNTLEAMQAALQLEKTVNQALLDLHKLATDKVDPHLCDFLESEYLEEQVKDIKRIGDFITNLKRLGLPENGMGEYLFDKHSV",
+    "pdb_resnum_min": 1,
+    "pdb_resnum_max": 171
+  },
+  "MtBfrA_3UOI_A": {
+    "protein_group": "P9WPQ9",
+    "protein_name": "M. tuberculosis BfrA (MtBfrA)",
+    "oligomer_family": "24mer_bfr",
+    "pdb_id": "3UOI",
+    "pdb_path": "/Users/a26683/Desktop/ferritinMTdatabase/research/data/ferritin_pdb_raw/3UOI.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "G",
+      "M",
+      "S",
+      "T",
+      "V"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.727279480101823,
+        "n_contacts_6a": 159,
+        "rotation_deg": 179.73033007279517,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "G",
+        "source_chain_id": "G",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6406422825834497,
+        "n_contacts_6a": 12,
+        "rotation_deg": 179.90090634827948,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "M",
+        "source_chain_id": "M",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.771546510086048,
+        "n_contacts_6a": 103,
+        "rotation_deg": 90.09633356272236,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "S",
+        "source_chain_id": "S",
+        "op_index": 0,
+        "min_heavy_dist_a": 3.0609162977832516,
+        "n_contacts_6a": 125,
+        "rotation_deg": 90.01468085588418,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "T",
+        "source_chain_id": "T",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.6975011581357244,
+        "n_contacts_6a": 97,
+        "rotation_deg": 119.66558893674905,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "V",
+        "source_chain_id": "V",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.4631220739177397,
+        "n_contacts_6a": 68,
+        "rotation_deg": 120.01189529797249,
+        "symmetry_class": "C3"
+      }
+    ],
+    "pdb_seq": "MQGDPDVLRLLNEQLTSELTAINQYFLHSKMQDNWGFTELAAHTRAESFDEMRHAEEITDRILLLDGLPNYQRIGSLRIGQTLREQFEADLAIEYDVLNRLKPGIVMCREKQDTTSAVLLEKIVADEEEHIDYLETQLELMDKLGEELYSAQCVSRPPT",
+    "pdb_resnum_min": 1,
+    "pdb_resnum_max": 159
+  },
+  "MtBfrB_3QD8_A": {
+    "protein_group": "P9WNE5",
+    "protein_name": "M. tuberculosis BfrB (MtBfrB)",
+    "oligomer_family": "24mer_canonical_bac",
+    "pdb_id": "3QD8",
+    "pdb_path": "/Users/a26683/Desktop/ferritinMTdatabase/research/data/ferritin_pdb_raw/3QD8.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "F",
+      "G",
+      "M"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 7.065092041751415,
+        "n_contacts_6a": 0,
+        "rotation_deg": 179.74128812881014,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "C",
+        "source_chain_id": "C",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.489574880286212,
+        "n_contacts_6a": 102,
+        "rotation_deg": 120.59961745933002,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "D",
+        "source_chain_id": "D",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.339670467968102,
+        "n_contacts_6a": 83,
+        "rotation_deg": 90.13763953300135,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "F",
+        "source_chain_id": "F",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.7689905052268697,
+        "n_contacts_6a": 186,
+        "rotation_deg": 179.9799360737249,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "G",
+        "source_chain_id": "G",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.470332954239757,
+        "n_contacts_6a": 87,
+        "rotation_deg": 119.78183529836362,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "M",
+        "source_chain_id": "M",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.507992483516333,
+        "n_contacts_6a": 83,
+        "rotation_deg": 89.77004000228484,
+        "symmetry_class": "C4"
+      }
+    ],
+    "pdb_seq": "KFHALMQEQIHNEFTAAQQYVAIAVYFDSEDLPQLAKHFYSQAVEERNHAMMLVQHLLDRDLRVEIPGVDTVRNQFDRPREALALALDQERTVTDQVGRLTAVARDEGDFLGEQFMQWFLQEQIEEVALMATLVRVADRAGANLFELENFVAREVDVAPAASGAPHAAGGRL",
+    "pdb_resnum_min": 10,
+    "pdb_resnum_max": 181
+  },
+  "PfFtn_2JD6_A": {
+    "protein_group": "Q8U2T8",
+    "protein_name": "Pyrococcus furiosus ferritin (PfFtn)",
+    "oligomer_family": "24mer_archaeal",
+    "pdb_id": "2JD6",
+    "pdb_path": "/Users/a26683/Desktop/ferritinMTdatabase/research/data/ferritin_pdb_raw/2JD6.pdb",
+    "target_chain_id": "A",
+    "biomt_source_pdb": null,
+    "restore_muts_pdb": [],
+    "normalize_mse": true,
+    "expected_subunits": 24,
+    "total_subunits": 24,
+    "subcomplex_chains": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "G",
+      "I",
+      "K"
+    ],
+    "neighbors": [
+      {
+        "new_chain_id": "B",
+        "source_chain_id": "B",
+        "op_index": 0,
+        "min_heavy_dist_a": 5.455712597915144,
+        "n_contacts_6a": 4,
+        "rotation_deg": 179.87741504964708,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "C",
+        "source_chain_id": "C",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.9649304147979385,
+        "n_contacts_6a": 90,
+        "rotation_deg": 119.75557215149905,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "D",
+        "source_chain_id": "D",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.696960606012266,
+        "n_contacts_6a": 75,
+        "rotation_deg": 120.30810119301374,
+        "symmetry_class": "C3"
+      },
+      {
+        "new_chain_id": "G",
+        "source_chain_id": "S",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.4305183618366915,
+        "n_contacts_6a": 248,
+        "rotation_deg": 179.71826796954056,
+        "symmetry_class": "C2"
+      },
+      {
+        "new_chain_id": "I",
+        "source_chain_id": "U",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.915285870770438,
+        "n_contacts_6a": 59,
+        "rotation_deg": 89.76184463586456,
+        "symmetry_class": "C4"
+      },
+      {
+        "new_chain_id": "K",
+        "source_chain_id": "W",
+        "op_index": 0,
+        "min_heavy_dist_a": 2.9665239107837333,
+        "n_contacts_6a": 49,
+        "rotation_deg": 90.42277101803127,
+        "symmetry_class": "C4"
+      }
+    ],
+    "pdb_seq": "MLSERMLKALNDQLNRELYSAYLYFAMAAYFEDLGLEGFANWMKAQAEEEIGHALRFYNYIYDRNGRVELDEIPKPPKEWESPLKAFEAAYEHEKFISKSIYELAALAEEEKDYSTRAFLEWFINEQVEEEASVKKILDKLKFAKDSPQILFMLDKELSARAPKLPG",
+    "pdb_resnum_min": 1,
+    "pdb_resnum_max": 167
+  }
+}

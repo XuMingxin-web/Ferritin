@@ -1,0 +1,35 @@
+{
+  "model_name": "PriorAnchoredNonNegHuber",
+  "feature_names": [
+    "geo_asm_k32",
+    "neg_fx_cage_ddg_eff",
+    "neg_fx_ac_ddg_bind_c3",
+    "neg_fx_ac_ddg_bind_nonpolar",
+    "neg_geo_asm_enc_shift_k32"
+  ],
+  "residual_anchor_col": null,
+  "alpha_selected": 80.0,
+  "w_prior_selected": 1.0,
+  "train_cohort": "S1_All30",
+  "train_n": 30,
+  "linear_weights": {
+    "residual_anchor": null,
+    "standardized_coefs": {
+      "geo_asm_k32": 0.8957,
+      "neg_fx_cage_ddg_eff": 1.0331,
+      "neg_fx_ac_ddg_bind_c3": 1.3827,
+      "neg_fx_ac_ddg_bind_nonpolar": 1.3343,
+      "neg_geo_asm_enc_shift_k32": 1.06
+    },
+    "raw_coefs": {
+      "geo_asm_k32": 0.4589,
+      "neg_fx_cage_ddg_eff": 0.3549,
+      "neg_fx_ac_ddg_bind_c3": 0.5042,
+      "neg_fx_ac_ddg_bind_nonpolar": 0.5032,
+      "neg_geo_asm_enc_shift_k32": 1.0578
+    },
+    "raw_intercept": 0.1675,
+    "std_intercept_b0": -3.0859
+  },
+  "artifact_sha256": "169b357c348a8ef0f6e8eef0a2c79ff1b0a71028d49995dffaa78486ed04fd33"
+}
